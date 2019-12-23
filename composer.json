@@ -1,0 +1,37 @@
+{
+  "name": "AlvynXu/mina",
+  "version": "1.0.0",
+  "description": "Tencent Mini Program API For Laravel and Lumen",
+  "keywords": [
+    "mina",
+    "miniprogram",
+    "wx wechat",
+    "laravel"
+  ],
+  "dependencies": {
+    
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AlvynXu",
+      "email": "1529634106@qq.com",
+      "homepage": "",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^5.5.9|^7.0|^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Alvyn\\Mina\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}
+
